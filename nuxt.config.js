@@ -49,7 +49,7 @@ export default {
   // https://go.nuxtjs.dev/config-axios
   axios: {
     // https://github.com/nuxt-community/axios-module/issues/308
-    baseURL: 'https://xxx.xxx.xxx/'
+    baseURL: 'http://106.225.164.193:2000/'
   },
 
   // https://go.nuxtjs.dev/pwa
